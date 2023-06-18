@@ -1,7 +1,9 @@
-<h1 align="center">Hello 👋, I'm Micka</h1>
-<h3 align="center"></h3>
-
-- 🌱 I’m currently learning **🦀 Rust**
+<h1 align="center">Hi there 👋, I'm Micka</h1>
+<p>
+  I am a 18 years old who has been writing lines of code since 2018. There is nothing I do not like in programming (except when it comes to cybersecurity). Being very curious, I try to learn about as much languages as possible and still do not know which is my preferred one
+</p>
+- 🌱 Currently learning **🦀 Rust**
+- 🤓 I use Arch, btw
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
