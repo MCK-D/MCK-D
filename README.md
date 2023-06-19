@@ -1,6 +1,8 @@
-<h1 align="center">👋 I'm Micka</h1>
+<h1 align="center">I'm Micka</h1>
 <p>
-  I am a 18 years old who has been writing lines of code since 2018. There is nothing I do not like in programming (except when it comes to cybersecurity). Being very curious, I try to learn about as much languages as possible and still do not know which is my preferred one
+  👋 I am a 18 years old who has been writing lines of code since 2018. There is nothing I do not like in programming (except when it comes to cybersecurity).
+  🛠️ Being very curious, I try to learn about as much languages as possible and still do not know which is my preferred one (I'm starting to develop a strong relation with low-level programming though).
+  💻 When it comes to code, I like to keep it clean and adaptable so I can ad new features faster and even work on it after a long time not touching it (although when I do I always end up hating what I wrote and remaking everything from scratch).
 </p>
 
 - 🌱 Currently learning **🦀 Rust**
@@ -9,6 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mickadaoud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mickadaoud/" height="30" width="40" /></a>
+<a href="mailto:micka.daoud@epitech.eu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/512px-Circle-icons-mail.svg.png" alt="mailto:micka.daoud@epitecheu" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
