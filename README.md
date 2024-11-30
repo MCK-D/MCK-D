@@ -25,7 +25,7 @@
     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg>
 </p>
 <p align="center">
-    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/Flutter3.svg>
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg>
     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg>
     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg>
     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg>
