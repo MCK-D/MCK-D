@@ -18,15 +18,20 @@
 <p align="center">
     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg>
     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg>
-    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg>
     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg>
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi3.svg>
     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg>
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg>
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg>
 </p>
 <p align="center">
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/Flutter3.svg>
     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg>
     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg>
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg>
     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg>
-    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg>
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg>
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg>
 </p>
 
 
