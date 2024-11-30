@@ -6,27 +6,38 @@
 </p>
 
 - 🌱 Currently learning **🦀 Rust**
-- 🤓 I use Arch, btw
+- 🤓 I use Arch and Vim, btw
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mickadaoud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mickadaoud/" height="30" width="40" /></a>
-<a href="mailto:micka.daoud@epitech.eu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/512px-Circle-icons-mail.svg.png" alt="mailto:micka.daoud@epitecheu" height="40" width="40"/></a>
+## 🌐 Socials:
+<p align="center">
+    <a href="https://www.linkedin.com/in/mickadaoud/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg">
+    <a href="mailto:micka.daoud@epitech.eu"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="background-color: white">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+# 💻 Tech Stack:
+<p align="center">
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg>
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg>
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg>
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg>
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg>
+</p>
+<p align="center">
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg>
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg>
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg>
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg>
 </p>
 
-![MCK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Micka-DAOUD&theme=dracula&hide_border=false)
+
+# 📊 GitHub Stats:
+<p align="center">
+    <br><img src="https://github-readme-stats.vercel.app/api?username=MCK-D&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"><br/>
+    <br><img src="https://streak-stats.demolab.com?user=MCK-D&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&bg_color=0000000"><br/>
+    <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCK-D&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000"><br/>
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+    <br><img src="https://github-profile-trophy.vercel.app/?username=MCK-D&theme=tokyonight&no-bg=true&no-frame=true"><br/>
+</p>
