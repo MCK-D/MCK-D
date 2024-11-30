@@ -5,7 +5,7 @@
   💻 When it comes to code, I like to keep it clean and simple so I can add new features faster and even work on it after a long time not touching it (although when I do I always end up hating what I wrote and remaking everything from scratch).<br>
 </p>
 
-- 🌱 Currently learning **🦀 Rust**
+- 🌱 Currently learning **⭐ Gleam**
 - 🤓 I use Arch and Vim, btw
 
 ## 🌐 Socials:
