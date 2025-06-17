@@ -1,6 +1,6 @@
 <h1 align="center">👋 I'm Micka</h1>
 <p>
-  I am a 19 year-old who has been writing lines of code since 2018. There is nothing I do not like in programming. <br>
+  I am a 20 year-old who has been writing lines of code since 2018. There is nothing I do not like in programming. <br>
   🛠️ Being very curious, I try to learn about as much languages as possible and still do not know which is my preferred one (I'm starting to develop a strong relation with mobile development though). <br>
   💻 When it comes to code, I like to keep it clean and simple so I can add new features faster and even work on it after a long time not touching it (although when I do I always end up hating what I wrote and remaking everything from scratch).<br>
 </p>
